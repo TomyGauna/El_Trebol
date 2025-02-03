@@ -1,0 +1,2 @@
+sass --watch scss/index.scss:css/style.css
+sass --watch scss/admin_style/admin.scss:css/admin.css
